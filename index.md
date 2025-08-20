@@ -1,33 +1,35 @@
 ---
 layout: page
-title: Storia dei Testimoni
-description: v.20230824
+title: Storie di Testimoni
+description: v.20250820
 ---
 
-La Storia dei Testimoni racconta l'uscita di scena di Gesù risorto e
-alcuni degli avvenimenti che seguirono, più o meno negli anni dal 30 al
-63 d.C.
+'Storie di Testimoni' racconta l'uscita di scena di Gesù risorto e le
+successive vicende dei suoi seguaci, negli anni tra il 30 e il 63 d.C.
+circa.
 
-I Testimoni sono quelli che hanno accolto il Messaggio di Gesù e anche
-la missione che Gesù ha affidato loro: "Andate e portate il Messaggio a
-tutti." Davanti a tutti dichiarano: "Dio ha portato in alto Gesù ...
-nostro Capo e Salvatore per dare agli Ebrei l'occasione di pentirsi e di
-ricevere il perdono dei propri errori. Noi siamo testimoni di queste
-verità!" (cap. 5)
+I Testimoni, tradizionalmente chiamati Apostoli, ma che potremmo anche
+chiamare Inviati o Missionari, sono quelli che hanno accolto il
+Messaggio di Gesù e anche la missione che Gesù ha affidato loro:
+*'Andate e portate la Buona Notizia a tutti.'* Davanti ai loro
+connazionali dichiarano: \<\<Dio ha portato in alto Gesù... nostro Capo
+e Salvatore per dare agli Ebrei l'occasione di pentirsi e di ricevere il
+perdono dei propri errori. Noi siamo testimoni di queste verità!\>\>
+(cap. 5)
 
-Tra questi ci sono alcuni degli allievi della prima ora, come Giovanni e
-Pietro, e altri seguaci della 'Via di Gesù' aggiunti dopo, come Stefano,
-il primo ad essere ucciso, e Saulo di Tarso, detto Paolo, che portò il
-Messaggio ai non Ebrei.
+I Testimoni più in vista sono alcuni dei primi allievi, come Giovanni e
+Pietro, e altri seguaci del *Movimento di Gesù* aggregati dopo, come
+Stefano, il primo a essere ucciso, e Saulo di Tarso, detto Paolo, che
+portò il Messaggio ai non-ebrei.
 
-Vediamo nascere le prime comunità di seguaci (che chiameremo "chiese"),
-e gli scontri che spesso terminano in violenza, tra i seguaci (che
-chiameremo 'cristiani') e le autorità civili e religiose locali.
+Vediamo nascere le prime comunità di seguaci (che chiameremo *chiese*) e
+gli scontri, che spesso terminano in violenza, tra i seguaci (che
+chiameremo *cristiani*) e le autorità civili e religiose locali.
 
 Il racconto si svolge prima a Gerusalemme per poi allargarsi nel
-Mediterraneo, nel mondo Greco e Romano, in cui gli Ebrei cercavano di
-vivere tranquillamente nelle proprie comunità, evitando attentamente di
-portare lo sconvolgimento e la rivoluzione che arriva insieme ai
+Mediterraneo, nel mondo greco e romano, in cui gli Ebrei cercano di
+vivere tranquillamente nelle proprie comunità, evitando con cura di
+portare lo sconvolgimento e la rivoluzione che arrivano insieme ai
 predicatori di Gesù.
 
 #### Capitoli
