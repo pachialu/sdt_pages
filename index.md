@@ -12,9 +12,9 @@ I Testimoni, tradizionalmente chiamati Apostoli, ma che potremmo anche
 chiamare Inviati o Missionari, sono quelli che hanno accolto il
 Messaggio di Gesù e anche la missione che Gesù ha affidato loro:
 *'Andate e portate la Buona Notizia a tutti.'* Davanti ai loro
-connazionali dichiarano: \<\<Dio ha portato in alto Gesù... nostro Capo
+connazionali dichiarano: "Dio ha portato in alto Gesù... nostro Capo
 e Salvatore per dare agli Ebrei l'occasione di pentirsi e di ricevere il
-perdono dei propri errori. Noi siamo testimoni di queste verità!\>\>
+perdono dei propri errori. Noi siamo testimoni di queste verità!"
 (cap. 5)
 
 I Testimoni più in vista sono alcuni dei primi allievi, come Giovanni e
