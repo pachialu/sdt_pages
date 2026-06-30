@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Storie di Testimoni
-description: v.20250820
+description: v.20260629
 ---
 
 'Storie di Testimoni' racconta l'uscita di scena di Gesù risorto e le
