@@ -1,6 +1,6 @@
 ---
 layout: page
-title: secondo viaggio di Paolo
+title: Mappa secondo viaggio di Paolo
 ---
 [<-indietro](st15.html)
 
