@@ -62,3 +62,9 @@ predicatori di Gesù.
 * [Storie di Testimoni 26](pages/st26.html)
 * [Storie di Testimoni 27](pages/st27.html)
 * [Storie di Testimoni 28](pages/st28.html)
+
+#### Viaggi di Paolo
+* [Primo viaggio di Paolo](pages/primo_viaggio_di_paolo.html) - cap. 13-14
+* [Secondo viaggio di Paolo](pages/secondo_viaggio_di_paolo.html) - cap. 15-18
+* [Terzo viaggio di Paolo](pages/terzo_viaggio_di_paolo.html) - cap. 19-21
+* [Viaggio di Paolo per Roma](pages/viaggio_di_paolo_per_roma.html) - cap. 27-28
